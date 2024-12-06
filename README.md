@@ -409,3 +409,190 @@ Gleich wie CUSTOMER_SALE_GROUP_NAME
 ### SCALED_TOTAL_SALES_PRICE_BASIS
 
 ### SCALED_TOTAL_SALE_PRICE
+
+# Columns of interest
+
+## CUSTOMER_TYPE
+
+- Käuferart
+- Kategorie
+
+## RPAKREP_VEHICLE_HKEY
+
+- Unique ID des Fahrzeugs
+
+## COMPANY
+
+- ID?
+- Kategorie
+
+## OFFICE
+
+- ID einer spezifischen Niederlassung von Emil Frey
+- Kategorie
+
+## MANUFACTURER_SHORT
+
+- Automarke
+- Kategorie
+
+## VEHICLE_GROUP
+
+- Fahrzeugmodellgruppe
+- Kategorie
+
+## MILEAGE
+
+- Laufleistung
+- Numerisch
+
+## COLOR
+
+- Farbe
+- Kategorie?
+
+## UPHOLSTERY
+
+- ID der Polsterung
+- Kategorie
+
+## ENGINE_TYPE
+
+- Typ des Motors
+- Kategorie
+
+## TRANSMISSION_TYPE
+
+- Getriebe
+- Kategorie
+
+## TRANSMISSION_NAME
+
+- Art des Getriebes (Automatik, Handschalter, etc.)
+- Kategorie
+
+## NUMBER_DOORS
+
+- Anzahl der Türen
+- Numerisch
+
+## NUMBER_SEATS
+
+- Anzahl der Sitzplätze
+- Numerisch
+
+## CURB_WEIGHT
+
+- Leergewicht
+- Numerisch
+
+## YEAR_CONSTRUCTION
+
+- Baujahr
+- Numerisch
+
+## NUMBER_ENGINE_CYLINDER
+
+- Anzahl der Zylinder
+- Numerisch
+
+## ACCIDENT_VEHICLE
+
+- Unfallfahrzeug Ja/Nein
+- boolean (True/False)
+
+## HORSEPOWER
+
+- Leistung in PS
+- Numerisch
+
+## CCM
+
+- Hubraum in ccm
+- Numerisch
+
+## NUMBER_OWNERS
+
+- Anzahl der Vorbesitzer
+- Numerisch
+
+## FINANCING_TYPE_NAME
+
+- Art der Finanzierung
+- Kategorie
+
+## FUEL_TYPE_NAME
+
+- Kraftstofftyp
+- Kategorie
+
+## DRIVE_TYPE_NAME
+
+- Antriebsart (Vorderrad, Hinterrad, Allrad, etc.)
+- Kategorie
+
+## VEHICLE_MODEL_ID_NAME
+
+- Fahrzeugkategorie (Geländewage, Limousine, etc.)
+- Kategorie
+
+## COMMISSION_TYPE_NAME
+
+- Gebrauchtwagen/Neuwagen/Dienstwagen etc.
+- Kategorie
+
+## PURCHASE_DATE
+
+- Ankaufdatum
+- Numerisch
+
+## LAID_UP_TIME
+
+- Targetvalue
+- Zeitdauer von An- bis Verkauf
+- Numerisch
+
+## CUSTOMER_SALE_GROUP2_NAME
+
+- Art des Kunden (Endverbraucher, Interne Kunden, etc.)
+- Kategorie
+
+## SCALED_CURRENT_VALUE
+
+- ???
+- Numerisch
+
+## SCALED_INVENTURAL_VALUE
+
+- ???
+- Numerisch
+
+## SCALED_REPORT_VALUE
+
+- ???
+- Numerisch
+
+## SCALED_VALUATION_PRICE
+
+- ???
+- Numerisch
+
+## SCALED_GUIDE_PRICE
+
+- ???
+- Numerisch
+
+## SCALED_TOTAL_SALES_PRICE_BASIS
+
+- ???
+- Numerisch
+
+## SCALED_TOTAL_SALE_PRICE
+
+- ???
+- Numerisch
+
+## SCALED_TOTAL_SALES_PRICE_DIFF
+
+- ???
+- Numerisch
