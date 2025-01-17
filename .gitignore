@@ -1,0 +1,8 @@
+# Final model predictions
+predictions/
+
+# Folder for downloaded xlsx files
+datasets/
+
+# Open excel files
+~$*
